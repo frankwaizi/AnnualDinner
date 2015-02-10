@@ -146,18 +146,12 @@ header h1 {
 }
 .cd-timeline-img img {
   display: block;
-  width: 24px;
-  height: 24px;
   position: relative;
-  left: 50%;
-  top: 50%;
-  margin-left: -12px;
-  margin-top: -12px;
 }
 .cd-timeline-img.cd-picture {
   background: #75ce66;
 }
-.cd-timeline-img.cd-movie {
+.cd-timeline-img.cd-bell {
   background: #c03b44;
 }
 .cd-timeline-img.cd-location {
